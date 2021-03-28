@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-family: 'Arial';
+  background: cornflowerblue;
+  font-size: 1.25rem;
+}
+
+.generatebox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.button {
+  border-radius: 5px;
+  cursor: pointer;
+  border: 2px solid blue;
+  font-size: 1.25rem; 
+}
+
+.thename {
+  margin-left: 10px;
+}
+
+.button:active {
+  background: blue;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.select {
+  cursor: pointer;
+  border: 1px solid black;
+  font-size: 1.25rem; 
+  margin-right: 10px;
+}
+
+.select:focus {
+  outline: none;
+}
+
+.faveslist {
+  margin-top: 80px;
+}

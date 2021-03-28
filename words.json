@@ -1,0 +1,7 @@
+{
+ "verbs": ["Jump", "Smack", "Run", "Carry", "Throw", "Eat", "Bake", "Cook", "Leverage", "Fight", "Consume", "Create", "Build", "Make", "Break", "Destroy", "Tickle", "Lick", "Smell", "Visualise", "Heed"],
+ "verbsIng": ["Jumping", "Fighting", "Rolling", "Patrolling", "Slithering", "Aching", "Laughing", "Crying", "Falling", "Eating", "Building", "Standing", "Moving", "Shouting"],
+ "adjectives": ["Ugly", "Funky", "Slimey", "Annoying", "Lovely", "Blue", "Golden", "Red", "Yellow", "Green", "Purple", "Silver", "Orange", "Pretty", "Beautiful", "Dastardly", "Cunning", "Ferocious", "Nasty", "Sweet"],
+ "nounsPlural": ["Ducks", "Grannies", "Shrimp", "Flamingos", "Broccoli Stalks", "Fish", "Bell Peppers", "Legs", "Eyes", "Arms", "Heads", "Sheep", "Fish", "Daffodils", "Bluebells", "Slugs", "Snails", "Limes", "Lemons", "Tusks", "Candy"],
+ "nounsSingular": ["Car", "Arm", "Shirt", "Flower", "Cat", "Lion", "Egg", "Ham", "Bacon", "Brad", "Human", "Centipede", "Spider", "Duck", "Chocolate", "Toffee", "Ladybird", "Dragonfly", "Dragonfruit", "Toy", "Boat", "House", "Garage"]
+}
